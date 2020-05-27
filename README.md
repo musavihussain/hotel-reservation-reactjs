@@ -1,6 +1,12 @@
 ## Hotel Reservation
 ### Run Application
 ```
-npm run
+npm start
+```
+
+### Install Dependencies
+```
+npm install react-icons
+npm install react-router-dom
 ```
 
